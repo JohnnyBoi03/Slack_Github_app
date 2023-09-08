@@ -1,4 +1,5 @@
 # slack_github_app
+https://appetize.io/app/3jj6oqzcdg7ztw5t7s7pe3sr3e?debug=true&proxy=intercept&device=pixel6pro&osVersion=12.0&scale=50
 
 A new Flutter project.
 
